@@ -272,8 +272,9 @@ nav .menu li a:hover{
    margin: 20px;
  }
  .series-box:hover{
-   transform: translatey(-10px);
-    transition: all ease 0.2s;
+  transform: translatey(-10px);
+    transition: all ease 2s;
+    height: fit-content;
  }
  #series-list{
    display: flex;
